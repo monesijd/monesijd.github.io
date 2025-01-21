@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://monesijd.github.io/</loc>
     <lastmod>2025-01-20T23:11:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://monesijd.github.io/post/</loc>
     <lastmod>2025-01-20T23:11:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/second_post/</loc>
+    <loc>https://monesijd.github.io/post/second_post/</loc>
     <lastmod>2025-01-20T23:11:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/first_post/</loc>
+    <loc>https://monesijd.github.io/post/first_post/</loc>
     <lastmod>2025-01-20T16:11:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://monesijd.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://monesijd.github.io/tags/</loc>
   </url>
 </urlset>
